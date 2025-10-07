@@ -15,6 +15,7 @@ Com o ""Gamma" realizei a criação e ajustes dos slides da apresentação.
 Essa apresentação procura conscientizar as pessoas sobre a importância da inclusão social de pessoas portadoras de Síndrome de Down e suas reais consequencias.
 
 [LINK PARA A APRESENTAÇÃO](https://github.com/gustavotiezerini/lab-natty-or-not/blob/main/S%C3%ADndrome%20de%20Down.pptx)
+
 [LINK PARA VERSÃO EM PDF](https://github.com/gustavotiezerini/lab-natty-or-not/blob/main/S%C3%ADndrome%20de%20Down.pdf)
 
 ## 💭 Reflexão
