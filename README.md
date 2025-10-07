@@ -1,20 +1,20 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Inclusão social de pessoas portadoras de Síndrome de Down. 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Esta apresentação de 10 slides explora a importância da inclusão social de pessoas portadoras de Síndrome de Down nas mais variadas camadas da sociedade.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- IA Generativa **[Gamma](https://gamma.app)** para criar os slides;
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "ChatGPT" para revisar e estruturar o conteúdo.
+Com o ""Gamma" realizei a criação e ajustes dos slides da apresentação.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+Essa apresentação procura conscientizar as pessoas sobre a importância da inclusão social de pessoas portadoras de Síndrome de Down e suas reais consequencias.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA A APRESENTAÇÃO AQUI](https://github.com/gustavotiezerini/lab-natty-or-not/blob/main/S%C3%ADndrome%20de%20Down.pptx)
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Criar essa apresentação utilizando o ChatGPT em conjutno com o Gamma foi de extrema importância para o resultado da apresentação.
